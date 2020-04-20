@@ -1,3 +1,2 @@
 release: cargo make build
-web: cargo make serve 
-
+web: ./target/release/seed-quickstart
